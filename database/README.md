@@ -1,6 +1,6 @@
-#springBootMockProject
+# springBootMockProject
 
-##Procedure to populate database
+## Procedure to populate database
 - Download the csv file containing the data
 - Run the python script using the format: python file_prepare.py path/to/file
 - Replace the DemoApplication file in the spring boot project with the one provided here (keep a backup)
